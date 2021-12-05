@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my public projects are available at [Github](https://github.com/amonrperes)
 
-<p align="left">
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=amonrperes&show_icons=true" alt="amonrperes"/> 
 </p>
 

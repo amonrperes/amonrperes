@@ -1,5 +1,5 @@
 <h1 align="center">Hello there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Amon Peres</h1>
-<h3 align="center">A Software Engineer | Python | React JS & React Native</h3>
+<h3 align="center">Software Engineer | Python | React JS & React Native</h3>
 
 - 🔭 I’m currently working on [Everysk Techonologies](https://www.everysk.com/)
 
@@ -16,6 +16,5 @@
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/felipe-hoffmann-374768157/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="felipe-hoffmann-374768157" height="20" width="20" /></a>
-<a href="https://www.facebook.com/hoffmannx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="hoffmannx" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/amon-peres-5aa3b61b3/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="felipe-hoffmann-374768157" height="20" width="20" /></a>
 </p>

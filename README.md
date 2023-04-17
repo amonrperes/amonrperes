@@ -1,4 +1,4 @@
-<h1 align="center">Hello there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">,  I'm Amon Peres</h1>
+<h1 align="center">Hello there, <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">I'm Amon Peres</h1>
 <h3 align="center">Frontend Software Engineer | React JS & React Native</h3>
 
 - 🔭 I’m currently working at [FARFETCH](https://www.farfetch.com/br/)

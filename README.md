@@ -1,7 +1,7 @@
 <h1 align="center">Hello there,<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">I'm Amon Peres</h1>
-<h3 align="center">iOS Engineer | Swift & Swift UI</h3>
+<h3 align="center">iOS Engineer | Swift | Swift UI | Objective-C | UIKit</h3>
 
-- 🔭 I’m currently working at [Portugal`s Social Security]([https://www.farfetch.com/br/](https://www.seg-social.pt/ii-ip-instituto-de-informatica-ip))
+- 🔭 I’m currently working at [Portugal`s Social Security]([https://www.seg-social.pt/ii-ip-instituto-de-informatica-ip])
 
 - 👨‍💻 All of my public projects are available at [Github](https://github.com/amonrperes)
 
